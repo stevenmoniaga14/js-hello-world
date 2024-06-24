@@ -5,6 +5,8 @@ to the console (the panel on the right)
 */
 
 console.log("Hello");
+console.log("Good day");
+console.log("Lovely weather");
 
 /*  
 Next, PLAY! 
